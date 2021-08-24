@@ -13,5 +13,7 @@ Here are a couple of screen shots of the current page:
 
 
 ![Screen Shot One](./assets/images/ScreenShot1.jpeg)
+![Screen Shot Two](./assets/images/ScreenShot2.jpeg)
+![Screen Shot Three](./assets/images/ScreenShot3.jpeg)
 
 And here is a link to the GitHub repository that contains the updated projecy :  https://mpompilio.github.io/code-refactor/
