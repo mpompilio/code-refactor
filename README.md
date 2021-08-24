@@ -12,6 +12,6 @@ The code-refactor project is project one of the GW Bootcamp Course
 Here are a couple of screen shots of the current page: 
 
 
-![Screen Shot One](./images/ScreenShot1.jpeg)
+![Screen Shot One](./assets/images/ScreenShot1.jpeg)
 
 And here is a link to the GitHub repository that contains the updated projecy :  https://mpompilio.github.io/code-refactor/
